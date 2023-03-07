@@ -31,7 +31,7 @@ def imprimerespostax1(delta, a, b):
 def imprimerespostax2(delta, a, b):
     x2 = (b * -1 - (math.sqrt(delta)))
     x2 = x2 / (2 * a)
-    print("x1...{}".format(x2))
+    print("x2...{}".format(x2))
 
 if(__name__ == "__main__"):
     jogar()
